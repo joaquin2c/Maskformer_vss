@@ -9,14 +9,14 @@ pip install setuptools==59.5.0
 ```
 
 ### Dataset
-The data must be save with the next structure:
+The data must be save with the next structure:\
 --Fold_1 \
-----train
-------images
-------masks
-----val
-------images
-------masks
+----train \
+------images \
+------masks \
+----val \
+------images \
+------masks \
 
 or can be found in the folder: ../shared data/maskformer_data/colorectal_fold
 
