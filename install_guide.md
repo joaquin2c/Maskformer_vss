@@ -10,7 +10,7 @@ pip install setuptools==59.5.0
 
 ### Dataset
 The data must be save with the next structure:
---Fold_1
+--Fold_1 \
 ----train
 ------images
 ------masks
