@@ -16,7 +16,7 @@ The data must be save with the next structure:\
 ------masks \
 ----val \
 ------images \
-------masks \
+------masks 
 
 or can be found in the folder: ../shared data/maskformer_data/colorectal_fold
 
